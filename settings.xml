@@ -1,0 +1,14 @@
+<servers>
+    <server>
+        <id>firewalls-mvn</id>
+        <username>bytesafe</username>
+        <password>01HT9GBYAC089Y5SK2Q6464PA7</password>
+        <configuration>
+            <httpConfiguration>
+                <all>
+                    <usePreemptive>true</usePreemptive>
+                </all>
+            </httpConfiguration>
+        </configuration>
+    </server>
+</servers>
