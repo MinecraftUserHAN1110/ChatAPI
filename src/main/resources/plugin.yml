@@ -1,0 +1,4 @@
+name: ChatAPI
+version: '${project.version}'
+main: io.github.flawgames.chatapi.ChatAPI
+api-version: '1.20'
