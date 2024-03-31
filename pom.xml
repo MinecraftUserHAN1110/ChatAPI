@@ -53,6 +53,17 @@
       <url>https://opensource.org/license/MIT</url>
     </license>
   </licenses>
+    <scm>
+        <connection>scm:git:https://github.com/MinecraftUserHAN1110/ChatAPI</connection>
+        <developerConnection>scm:git:https://github.com/MinecraftUserHAN1110/ChatAPI</developerConnection>
+        <url>https://github.com/MinecraftUserHAN1110/ChatAPI</url>
+    </scm>
+    <developers>
+        <developer>
+            <id>developer-id</id>
+            <name>MinecraftUserHAN1110</name>
+        </developer>
+    </developers>
   <repositories>
       <repository>
           <id>papermc-repo</id>
